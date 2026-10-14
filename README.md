@@ -1,3 +1,7 @@
+> **分支声明（Fork notice）**
+> 本仓库是 [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) 的 fork（分支），作为原作者删除后的备份。
+> 源代码以 [AGPL-3.0](LICENSE) 许可发布，原始版权与许可声明均完整保留、未作修改。
+
 # LibreTV
 
 LibreTV Next.js 迁移版：免费在线视频聚合搜索与观看平台。基于 Next.js 15（App Router）+ TypeScript + Tailwind CSS，播放内核为 ArtPlayer + hls.js，支持亮暗双主题。
@@ -237,7 +241,7 @@ CI 校验通过后自动构建并推送 `ghcr.io/librespark/libretv:<版本>`（
 | [MoonCakeTV](https://github.com/MoonCakeTV/MoonCakeTV) | 影视聚合搜索站（Next.js），文件存储、一键脚本部署 |
 | [OrangeTV](https://github.com/djteang/OrangeTV) | 跨平台影视聚合播放器（Next.js），Kvrocks/Redis/Upstash 多存储与多端同步 |
 
-> 旧版 LibreTV（静态 HTML + Express）完整代码见 [backup-2025 分支](https://github.com/LibreSpark/LibreTV/tree/backup-2025)。
+> 旧版 LibreTV（静态 HTML + Express）完整代码见 [backup-2025 分支](https://github.com/M49P6BK/LibreTV/tree/backup-2025)。
 
 ## 免责声明
 
