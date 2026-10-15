@@ -2,6 +2,13 @@
 > 本仓库是 [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) 的 fork（分支），作为原作者删除后的备份。
 > 源代码以 [AGPL-3.0](LICENSE) 许可发布，原始版权与许可声明均完整保留、未作修改。
 
+> **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
+> 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
+>
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/LibreTV/releases) 或 [原项目 Releases](https://github.com/LibreSpark/LibreTV/releases) 下载。
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+
 # LibreTV
 
 LibreTV Next.js 迁移版：免费在线视频聚合搜索与观看平台。基于 Next.js 15（App Router）+ TypeScript + Tailwind CSS，播放内核为 ArtPlayer + hls.js，支持亮暗双主题。
