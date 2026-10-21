@@ -1,11 +1,12 @@
 > **下载说明**
-> 推荐通过下方夸克网盘直链下载（含完整 release 文件，微信扫码或点链接即可），无需访问 GitHub：
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/share/init?surl=y6FTCIIwNWFeyxK50Klxgw&pwd=38c5
+>
 > **夸克网盘**：https://pan.quark.cn/s/cdd59b271676
 >
 > 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/LibreTV/releases) 下载。
 
 
-> **分支声明（Fork notice）**
 ☕ 觉得有用的话，可以到 [AFDIAN](https://afdian.com/a/veehub) 请我喝杯咖啡。
 ☕ 觉得有用的话，可以到 [AFDIAN](https://afdian.com/a/veehub) 请我喝杯咖啡。
 ☕ 觉得有用的话，可以到 [AFDIAN](https://afdian.com/a/veehub) 请我喝杯咖啡。
